@@ -19,10 +19,10 @@ O código "main.ipynb" importa os dados presente na tabela "clientes.csv", em se
 
 Após essa etapa, os dados são separaos em X e Y, o primeiro os valores para serem analisados e o segundo o valor que se busca prever
 
-Ambos, são dividos em X_treino, X_teste, Y_treino e Y_teste. Os valores com o sufixo "treino" foram usados para treinar os modelos de machine learng e os com "teste" para calcular a precisão das IA.
+Ambos, são dividos em X_treino, X_teste, Y_treino e Y_teste. Os valores com o sufixo "treino" foram usados para treinar os modelos de Machine Learning e os com "teste" para calcular a precisão das IA.
 
 Foram feitos teste no modelo RandomForest e KNeighbors e após a acurácia o modelo RandomForest obteve melhor aproveitamento nessa base de dados.
 
 Agora, com o modelo de IA já criado e selecionado, os dados da tabela "novos_clientes.csv" passaram pelo mesmo pré-processamento.
 
-Por fim, foi usado o modelo de machine learng criado para prever o score de crédito (Y), dos novos clientes, obtendo como resultado: 'Poor', 'Good', 'Good'.
+Por fim, foi usado o modelo de Machine Learning criado para prever o score de crédito (Y), dos novos clientes, obtendo como resultado: 'Poor', 'Good', 'Good'.
