@@ -4,7 +4,7 @@
 
 - Python
     - 
-    - Jupter
+    - Jupyter
 - Análise de Dados 
     - 
     - Pandas
