@@ -21,12 +21,14 @@ O código "main.ipynb" importa os dados presente na tabela "clientes.csv", em se
 - Tabela clientes.csv:
 
 ![Image](https://github.com/user-attachments/assets/111e11f7-3f76-4626-a371-dba06750133c)
+
 *Ao todo são 25 colunas e 100000 linhas*
 
 
 - Pré-Processamento:
 
 ![Image](https://github.com/user-attachments/assets/86a27031-5eb4-4fc0-9871-2e934f400b3e)
+
 *Coluna de ID removida e dados do tipo str alterados para int*
 
 
@@ -45,11 +47,13 @@ Foram feitos teste no modelo RandomForest e KNeighbors e após a acurácia o mod
 - Criação:
 
 ![Image](https://github.com/user-attachments/assets/33a5c8ed-a022-4032-b014-0ebbaaaef030)
+
 *Foi criado o modelo RandomForest e  KNeighbors*
 
 - Acurácia:
 
 ![Image](https://github.com/user-attachments/assets/76ccefb4-5757-46c8-96d2-09e5e301b53b)
+
 *Modelo RandomForest se mostrou melhor então foi o selecionado*
 
 
